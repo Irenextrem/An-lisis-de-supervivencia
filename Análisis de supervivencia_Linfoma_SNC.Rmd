@@ -1,6 +1,6 @@
 ---
 title: "Práctica Supervivencia 2.0"
-author: "Irene Extremera Serrano"
+author: "Miguel Angel Beltan Sanchez e Irene Extremera Serrano"
 date: "14/11/2020"
 output: html_document
 ---
